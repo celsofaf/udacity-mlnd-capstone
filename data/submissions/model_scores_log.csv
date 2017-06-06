@@ -1,0 +1,8 @@
+,model,params,RMSLE
+0,Ridge,{'alpha': 0.53638180552121706},0.144198792523
+0,GBR,"{'min_samples_split': 7, 'loss': 'lad', 'n_estimators': 2935, 'max_depth': 4}",0.123418467609
+0,RandomForest,"{'min_samples_split': 2, 'n_estimators': 2200, 'bootstrap': True}",0.142066632321
+0,ExtraTrees,"{'min_samples_split': 4, 'n_estimators': 718, 'bootstrap': True}",0.143505717077
+0,Combinations,Weighted average,0.126775341413
+0,Combinations,Inv Sq Sum,0.125775659682
+0,Combinations minus GBR,Inv Sq Sum,0.133096137965

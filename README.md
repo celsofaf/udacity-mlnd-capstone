@@ -1,2 +1,8 @@
-# udacity-mlnd-capstone
-Udacity Machine Learning Nanodegree - capstone project
+- proposal.pdf: Capostone Project Proposal
+- report.pdf: Capostone Project Report
+- code/: all code used on the project
+- data/submissions/: folder containing fitted data ready for submission
+- data/data_description.txt: original, detailed description of all features of the data
+- data/train.csv: original training set
+- data/test.csv: original test set
+- fig/: Graphics generated to include on the reports
